@@ -2,3 +2,4 @@
 
 >Status do projetos: Em desenvolvimento
 
+node app.js
